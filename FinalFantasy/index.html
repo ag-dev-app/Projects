@@ -1,0 +1,108 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8" />
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <title>Final Fantasy</title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
+            crossorigin="anonymous">
+
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
+            crossorigin="anonymous"></script>
+
+        <script src="main.js"></script>
+    </head>
+
+    <body id="body" onload="slideShow()">
+
+        <header id="header">
+            <img src="./img/final-fantasy-vii-remake-banner.jpg" alt="bannière" class="col"/>
+        </header>
+
+        <section>
+
+            <nav id="nav">
+                <a href="#" id="menu_btn" onClick="ClickBtn()">MENU</a>
+                <a href="#" id="FFVII" onClick="ClickFFVII()" style="display:none;">FIN&#65;L F&#65;NT&#65;SY VII</a>
+                <a href="#" id="FFVIII"onClick="ClickFFVIII()" style="display:none;">FIN&#65;L F&#65;NT&#65;SY VIII</a>
+                <a href="#" id="FFIX" onClick="ClickFFIX()" style="display:none;">FIN&#65;L F&#65;NT&#65;SY IX</a>
+            </nav>
+        
+            <div class="slideshow" id="slideshow">
+                <ul>
+                    <li><img  src="img/FFVII.jpg"></li>
+                    <li><img src="img/FFVIII.jpg"></li>
+                    <li><img src="img/FFIX.jpg"></li>
+                </ul>
+            </div>
+
+            <article id="article_hidden"style=display:none>
+
+                <table>
+                    <tr>
+                        <td colspan="2"style="background-color: black"><h1 id="afficherTitre"></h1></td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="2" ><img id="afficherBoitier" src ="#" alt="boitier"></td>
+                    </tr>
+
+                    <tr>
+                        <td>Genre</td>               <td id="afficherGenre"></td>
+                    </tr>
+
+                    <tr>
+                        <td>Mode</td>                <td id="afficherMode"></td>
+                    </tr>
+
+                    <tr>
+                        <td>Sorties PlayStation</td> <td id="afficherSortiePs"></td>
+                    </tr>
+
+                    <tr>
+                        <td>Sorties PC</td>          <td id="afficherSortiePc"></td>
+                    </tr>
+
+                    <tr>
+                        <td>Sorties PSN</td>         <td id="afficherSortiePsn"></td>
+                    </tr>
+
+                    <tr>
+                        <td>Editeurs</td>            <td id="afficherEditeurs"></td>
+                    </tr>
+
+                    <tr>
+                        <td>Développeur</td>         <td id="afficherDev"></td>
+                    </tr>
+
+                    <tr>
+                        <td>Concepteurs</td>         <td id="afficherConcepteurs"></td>
+                    </tr>
+
+                    <tr>
+                        <td>Musique</td>             <td id="afficherMusique"></td>
+                    </tr>
+                </table>
+
+                <button onClick="ClickBtn2()"><p>Page d'accueil</p></button>
+
+            </article>
+
+        </section>
+
+        
+        <footer id="footer">
+            <p>copyright: Alexis GEORGES, tout droits réservés.</p>
+        </footer>
+        
+    </body>
+</html>

@@ -1,0 +1,49 @@
+{
+        "titre": "FIN&#65;L F&#65;NT&#65;SY VIII",
+        "logo": "./img/FFVIII.jpg",
+        "editeur": [
+            "Ps (Japon) : Square",
+            "<br>Ps (US) : Square EA, LLC",
+            "<br>Ps (Europe) : SCEE",
+            "<br>Pc (Japon) : Square",
+            "<br>Pc (Europe) : Square"
+        ],
+        "developpeur": "Square",
+        "concepteur": [
+            "Yoshinori Kitase (réalisateur)",
+            "<br>Hironobu Sakaguchi (producteur délégué)",
+            "<br>Kazushige Nojima (scénariste)",
+            "<br>Tetsuya Nomura (création des personnages)",
+            "<br>Yusuke Naora (directeur artistique)"
+        ],
+        "musique": [
+            "Nobuo Uematsu (compositeur)",
+            "<br>Faye Wong (chant)",
+            "<br>Kako Someya (parolier)"
+        ],
+        "sortiePs": [
+            "(Japon) : 11 février 1999",
+            "<br>(US) : 9 septembre 1999",
+            "<br>(Europe) : 27 octobre 1999",
+            "<br>(Australie) : 29 octobre 1999"
+        ],
+        "sortieWin": [
+            "(Europe) : 18 février 2000",
+            "<br>(US) : 25 janvier 2000",
+            "<br>(Japon) : 23 mars 2000"
+        ],
+        "sortiePsn": [
+            "(Japon) : 27 septembre 2009",
+            "<br>(US) : 17 décembre 2009",
+            "<br>(Europe) : 4 février 2010"
+        ],
+        "genre": "J-RPG",
+        "mode": "Un joueur",
+        "plateforme": [
+            "PlayStation",
+            "<br>PC",
+            "<br>PlayStation 4",
+            "<br>IPhone",
+            "<br>PS Vita"
+        ]
+}

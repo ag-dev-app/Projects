@@ -1,0 +1,42 @@
+{
+    "titre": "FIN&#65;L F&#65;NT&#65;SY VII",
+    "logo": "./img/FFVII.jpg",
+    "editeur": [
+      "Japon : Square",
+      "<br>US : SCEA",
+      "<br>Europe : SCEE"
+    ],
+    "developpeur": "Square",
+    "concepteur": [
+      "Yoshinori Kitase (réalisateur, scénariste)",
+      "<br>Tetsuya Nomura (créateur des personnages)",
+      "<br>Kazushige Nojima (scénariste, event planner)",
+      "<br>Yusuke Naora (directeur artistique)"
+    ],
+    "musique": "Nobuo Uematsu (compositeur)",
+    "sortiePs": [
+      "(Japon) : 31 janvier 1997",
+      "<br>(US) : 7 septembre 1997",
+      "<br>(Europe) : 17 novembre 1997"
+    ],
+    "sortieWin": [
+      "(US) : 24 juin 1998",
+      "<br>(Europe) : 1998",
+      "<br>Steam : 4 juillet 2013"
+    ],
+    "sortiePsn": [
+      "(Japon) : 16 avril 2009",
+      "<br>(US) : 2 juin 2009",
+      "<br>(Europe) : 4 juin 2009"
+    ],
+    "genre": "J-RPG",
+    "mode": "Un joueur",
+    "plateforme": [
+      "PlayStation",
+      "<br>PC",
+      "<br>PlayStation 3",
+      "<br>PS Vita",
+      "<br>PlayStation 4",
+      "<br>IPhone"
+    ]
+}

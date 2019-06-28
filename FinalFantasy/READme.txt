@@ -1,0 +1,1 @@
+Mettre le dossier dans le 'www' de wamp pour que les requetes JSON fonctionnent.
