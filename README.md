@@ -1,12 +1,13 @@
-<h1>Projects</h1>
+# Projects
 
-<h2>Single Page App - Final Fantasy</h2>
+## Single Page App - Final Fantasy
 
-<ul>
-  <li>HTML / CSS</li>
-  <li>JQuery</li>
-  <li>Requêtes JSON</li>
-</ul>
 
-  <a href="https://ag-dev-app.github.io/Projects/FinalFantasy/">Visualiser</a>
+  - HTML / CSS
+  - JQuery
+  - Requêtes JSON
+
+
+  [Visualiser](https://ag-dev-app.github.io/Projects/FinalFantasy/)
+  
 
